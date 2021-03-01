@@ -1,5 +1,5 @@
 {
-  "name": "@buffetjs/styles",
+  "name": "@MaxwellBoecker/ezoic-buffetjs",
   "version": "3.3.4",
   "description": "Buffetjs Styles - The styling solution of Buffetjs",
   "main": "build",
@@ -103,10 +103,10 @@
   "author": "Strapi Team",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/MaxwellBoecker"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strapi/buffet"
+    "url": "https://github.com/MaxwellBoecker/ezoic-buffetjs"
   }
 }
