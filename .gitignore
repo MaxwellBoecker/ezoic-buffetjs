@@ -8,7 +8,6 @@
 /jest
 
 # production
-/build
 /dist
 /buffet/storybook-static
 
