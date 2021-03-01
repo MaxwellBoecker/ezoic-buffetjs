@@ -1,0 +1,1 @@
+This is the Styles package of the Buffetjs custom component library. It is to be used as a submodule in the HiddenWarrior repository to replace aspects of the theming related to Strapi with our own Ezoic branding.
